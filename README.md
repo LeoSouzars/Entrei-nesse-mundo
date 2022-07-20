@@ -1,6 +1,6 @@
 # Começando nesse mundo!
- Primeiro repositório de muitos que iram vir!
+ *Primeiro repositório de muitos que iram vir!*
 
-Estou começando agora, então pode ter alguns erros
+**Estou começando agora, então pode ter alguns erros**
 
 :)
